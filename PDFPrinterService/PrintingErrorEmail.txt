@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html>
+<head>    
+</head>
+<body>
+	<br />
+	Error while printing document fileName
+	<br /><br />
+	ErrorMessage
+	<br /><br />
+
+    <br />
+    Thank You,<br />
+	FluidSecure Support Team
+	<br /><br />
+
+	|<a href="websiteURLHREF" target="_tab">webisteURL</a>|<br />
+    ImageSign
+
+</body>
+</html>
