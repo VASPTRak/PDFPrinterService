@@ -251,7 +251,8 @@ namespace PDFPrinterService
 
                 PageSettings pageSettings = new PageSettings(printerSettings)
                 {
-                    Margins = new Margins(0, 0, 0, 0)
+                    Margins = new Margins(50, 50, 50, 50)
+                    //Margins = printerSettings.DefaultPageSettings.Margins
                 };
 
                 //pageSettings.PaperSize = new PaperSize("A4", 827, 1169);
